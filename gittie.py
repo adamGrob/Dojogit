@@ -16,4 +16,7 @@ def joke():
     print("Of course, a house doesn’t jump at all.")
 
 
+def shout():
+    print("I AM REALLY ANGRY NOW!")
+
 introduce()
